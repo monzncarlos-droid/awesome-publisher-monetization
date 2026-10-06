@@ -28,6 +28,10 @@ A curated list of tools, standards, and resources for web publisher monetization
 - [Google-certified CMPs](https://support.google.com/admanager/answer/10113217) — required for EEA/UK traffic monetization.
 - [IAB TCF](https://iabeurope.eu/transparency-consent-framework/) · [IAB GPP](https://iabtechlab.com/standards/gpp/)
 
+## Affiliate & referral monetization
+
+- [Power CM Partners](https://partners.powercm-software.com/) — connects web publishers to approved software campaigns with tracked links and commissions on verified sales. Free to join.
+
 ## Contributing
 
 Know a tool that belongs here? Open a PR with a one-line description and a link. Entries must be free to start and useful to publishers.
